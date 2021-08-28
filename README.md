@@ -20,8 +20,6 @@
     <img alt="klesio-JAVA" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
     <img alt="klesio-Bootstrap" height="30" width="30"
       src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
-    <img alt="klesio-Python" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   
 ##
