@@ -1,7 +1,7 @@
 ### Hi , I'am Klesio Nascimento👋
 
 
-- 🌱 I’m currently learning JavaScript, Java
+- 🌱 I’m currently learning #JavaScript, #Java ,#ReactJS
 - 😄 Pronouns: He/his
 
 <div>
