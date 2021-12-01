@@ -27,7 +27,7 @@
     <a href="https://www.instagram.com/nklesio/" target="_blank"><img
         src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kl%C3%A9sio-nascimento-767081204/" target="_blank"><img
+    <a href="https://www.linkedin.com/in/kl%C3%A9sio-ant%C3%B4nio-do-nascimento-767081204/" target="_blank"><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"></a>
   </div>
