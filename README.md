@@ -1,7 +1,7 @@
 ### Hi , I'am Klesio Nascimento👋
 
 
-- 🌱 I’m currently learning Java ,ReactJS , Typescript , node
+- 🌱 I’m currently learning Java ,ReactJS , Typescript , Node , PostgreSQL
 <p>
    My name is Klesio, I am a computer technician with a great passion for programming.I'm passionate about delivering solutions that add to people's lives and at    the same time challenge me.
 </p>
