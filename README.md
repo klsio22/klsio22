@@ -32,7 +32,7 @@
 
 ### Operating Systems :
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
- 
+
 ### Social :
    
  <div>
@@ -44,3 +44,8 @@
         target="_blank"></a>
   </div>
   
+### Projects  i worked in vtex cms:
+
+[Distrivisa](https://www.distrivisa.com.br/)<br/>
+[Florestoficial](https://www.florestoficial.com.br/)<br/>
+[Eletricabahiana](https://www.eletricabahiana.com.br/)
