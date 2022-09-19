@@ -1,8 +1,26 @@
-### Hi , I'am Klesio Nascimento👋
 
-- 🌱 I’m currently learning  ReactJS , Typescript , Vtex IO, GraphQL.
-<p>My name is Klesio, I'm a computer technician with a great passion for programming.I'm passionate about delivering solutions that add to people's lives and at    the same time challenge me.
+## Hi , I'am Klesio Nascimento👋
+
+<div align=center>
+  <img width="400"  alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b9fa210-4b87-47c5-9936-d9dcbf21718f/desf28x-3768e919-43ae-4eb5-9c19-a854eb458750.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliOWZhMjEwLTRiODctNDdjNS05OTM2LWQ5ZGNiZjIxNzE4ZlwvZGVzZjI4eC0zNzY4ZTkxOS00M2FlLTRlYjUtOWMxOS1hODU0ZWI0NTg3NTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RxaBOdV8zqRFogT5Y_W_FG6KQWCXAGezbexKfS9Rexg" />
+</div>
+
+<p>
+  My name is Klésio, I'm a web programmer front-end with a great passion for programming. I'm passionate about delivering solutions that to add  people's lives and at the same time challenge me. 
 </p>
+
+<div class="container">
+
+  <div align=left>
+  - 👨🏽‍💻 Hello!<br/>
+  - 🌱 I’m working in become a React Web developer.<br/>
+  - 🤔 My interests are with learn new programing <br/>
+  - languages and pratice my hard and soft skills.<br/>
+  - 💼 I'm Web Developer hired and currentlywork with vtex-cms /vtexIO.<br/>
+  - 💬 Ask me about anything, I am happy to help.<br/>
+  - 📫 Contact email klesio.dev@gmail.com.
+  </div>
+</div>
 
 <div>
    <a href="https://github.com/klsio22">
@@ -46,6 +64,5 @@
 
 [Distrivisa](https://www.distrivisa.com.br/)<br/>
 [Florestoficial](https://www.florestoficial.com.br/)<br/>
-[Eletricabahiana](https://www.eletricabahiana.com.br/)
-
-<img width="300" align="center" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b9fa210-4b87-47c5-9936-d9dcbf21718f/desf28x-3768e919-43ae-4eb5-9c19-a854eb458750.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliOWZhMjEwLTRiODctNDdjNS05OTM2LWQ5ZGNiZjIxNzE4ZlwvZGVzZjI4eC0zNzY4ZTkxOS00M2FlLTRlYjUtOWMxOS1hODU0ZWI0NTg3NTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RxaBOdV8zqRFogT5Y_W_FG6KQWCXAGezbexKfS9Rexg" />
+[Eletricabahiana](https://www.eletricabahiana.com.br/)<br/>
+[Barion](https://www.lojabarion.com.br/)
