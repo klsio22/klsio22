@@ -9,18 +9,13 @@
   My name is Klésio, I'm a web programmer front-end with a great passion for programming. I'm passionate about delivering solutions that to add  people's lives and at the same time challenge me. 
 </p>
 
-<div class="container">
-
-  <div align=left>
-  - 👨🏽‍💻 Hello!<br/>
-  - 🌱 I’m working in become a React Web developer.<br/>
-  - 🤔 My interests are with learn new programing <br/>
-  - languages and pratice my hard and soft skills.<br/>
-  - 💼 I'm Web Developer hired and currentlywork with vtex-cms /vtexIO.<br/>
-  - 💬 Ask me about anything, I am happy to help.<br/>
-  - 📫 Contact email klesio.dev@gmail.com.
-  </div>
-</div>
+- 👨🏽‍💻 Hello!<br/>
+- 🌱 I’m working in become a React Web developer.<br/>
+- 🤔 My interests are with learn new programing <br/>
+- languages and pratice my hard and soft skills.<br/>
+- 💼 I'm Web Developer hired and currentlywork with vtex-cms /vtexIO.<br/>
+- 💬 Ask me about anything, I am happy to help.<br/>
+- 📫 Contact email klesio.dev@gmail.com.<br/>
 
 <div>
    <a href="https://github.com/klsio22">
