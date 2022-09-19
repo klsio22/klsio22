@@ -1,9 +1,9 @@
 ### Hi , I'am Klesio Nascimento👋
 
-
+ <img width="400" align="right" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b9fa210-4b87-47c5-9936-d9dcbf21718f/desf28x-3768e919-43ae-4eb5-9c19-a854eb458750.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliOWZhMjEwLTRiODctNDdjNS05OTM2LWQ5ZGNiZjIxNzE4ZlwvZGVzZjI4eC0zNzY4ZTkxOS00M2FlLTRlYjUtOWMxOS1hODU0ZWI0NTg3NTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RxaBOdV8zqRFogT5Y_W_FG6KQWCXAGezbexKfS9Rexg" />
+ 
 - 🌱 I’m currently learning  ReactJS , Typescript , Vtex IO, GraphQL.
-<p>
-   My name is Klesio, I'm a computer technician with a great passion for programming.I'm passionate about delivering solutions that add to people's lives and at    the same time challenge me.
+<p>My name is Klesio, I'm a computer technician with a great passion for programming.I'm passionate about delivering solutions that add to people's lives and at    the same time challenge me.
 </p>
 
 <div>
