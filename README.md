@@ -1,7 +1,7 @@
+ <img width="400" align="center" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b9fa210-4b87-47c5-9936-d9dcbf21718f/desf28x-3768e919-43ae-4eb5-9c19-a854eb458750.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliOWZhMjEwLTRiODctNDdjNS05OTM2LWQ5ZGNiZjIxNzE4ZlwvZGVzZjI4eC0zNzY4ZTkxOS00M2FlLTRlYjUtOWMxOS1hODU0ZWI0NTg3NTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RxaBOdV8zqRFogT5Y_W_FG6KQWCXAGezbexKfS9Rexg" />
+
 ### Hi , I'am Klesio Nascimento👋
 
- <img width="400" align="right" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b9fa210-4b87-47c5-9936-d9dcbf21718f/desf28x-3768e919-43ae-4eb5-9c19-a854eb458750.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliOWZhMjEwLTRiODctNDdjNS05OTM2LWQ5ZGNiZjIxNzE4ZlwvZGVzZjI4eC0zNzY4ZTkxOS00M2FlLTRlYjUtOWMxOS1hODU0ZWI0NTg3NTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RxaBOdV8zqRFogT5Y_W_FG6KQWCXAGezbexKfS9Rexg" />
- 
 - 🌱 I’m currently learning  ReactJS , Typescript , Vtex IO, GraphQL.
 <p>My name is Klesio, I'm a computer technician with a great passion for programming.I'm passionate about delivering solutions that add to people's lives and at    the same time challenge me.
 </p>
@@ -10,8 +10,8 @@
    <a href="https://github.com/klsio22">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klsio22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsio22&layout=compact&langs_count=7&theme=dark"/>
- </div>
-   
+</div>
+ 
 ### Languages:
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
 
