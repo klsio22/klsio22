@@ -2,20 +2,20 @@
 ## Hi , I'am Klesio Nascimento👋
 
 <div align=center>
-  <img width="400"  alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b9fa210-4b87-47c5-9936-d9dcbf21718f/desf28x-3768e919-43ae-4eb5-9c19-a854eb458750.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliOWZhMjEwLTRiODctNDdjNS05OTM2LWQ5ZGNiZjIxNzE4ZlwvZGVzZjI4eC0zNzY4ZTkxOS00M2FlLTRlYjUtOWMxOS1hODU0ZWI0NTg3NTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RxaBOdV8zqRFogT5Y_W_FG6KQWCXAGezbexKfS9Rexg" />
+  <img width="400"  alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJxb2tpcTFlaXBoYWI1YTA5MTQzb3N5NHI2MWx1ZXB2eGxveDNhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 <p>
-  My name is Klésio, I'm a web programmer front-end with a great passion for programming. I'm passionate about delivering solutions that to add  people's lives and at the same time challenge me. 
+"My name is Klésio. I'm a front-end web programmer with a great passion for programming. I'm passionate about delivering solutions that add value to people's lives and, at the same time, challenge me."
 </p>
 
-- 👨🏽‍💻 Hello!<br/>
-- 🌱 I’m working in become a React Web developer.<br/>
-- 🤔 My interests are with learn new programing <br/>
-- languages and pratice my hard and soft skills.<br/>
-- 💼 I'm Web Developer hired and currentlywork with vtex-cms /vtexIO.<br/>
-- 💬 Ask me about anything, I am happy to help.<br/>
-- 📫 Contact email klesio.dev@gmail.com.<br/>
+- 👨🏽‍💻 Hello!
+- 🌱 I am working to become a full front-end developer.
+- 🤔 My interests are with learn new programing.
+- languages and pratice my hard and soft skills.
+- 💼 I'm Web Developer hired and currentlywork with Vtex-CMS/VtexIO.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 Contact email <klesio.dev@gmail.com>.
 
 <div>
    <a href="https://github.com/klsio22">
@@ -25,6 +25,12 @@
    
 ### Languages:
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+
+
+
+
 
 ### Platforms :
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
@@ -32,17 +38,38 @@
 ### Libraries :
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
+### Testes
+
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+
+### Office
+
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+### Linters
+
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+<img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white">
+
 ### Frameworks:
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> <img src="   https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 ### Databases :
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+">
  
 ### IDEs/Editors :
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Operating Systems :
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
+
+
+
+
 
 ### Social :
    
@@ -57,7 +84,19 @@
   
 ### Projects i worked in vtex cms:
 
-[Distrivisa](https://www.distrivisa.com.br/)<br/>
-[Florestoficial](https://www.florestoficial.com.br/)<br/>
-[Eletricabahiana](https://www.eletricabahiana.com.br/)<br/>
+[Distrivisa](https://www.distrivisa.com.br/)
+
+[Florestoficial](https://www.florestoficial.com.br/)
+
+[Eletricabahiana](https://www.eletricabahiana.com.br/)
+
 [Barion](https://www.lojabarion.com.br/)
+
+[FoxRacing](https://www.foxracing.com.br/)
+
+### Projects i worked in vtex IO:
+[Pormade](https://www.pormade.com.br/)
+
+[Admiteone](https://www.admitone.com.ar/)
+
+[Elamigo](https://www.elamigo.com.ar/?sc=2)
