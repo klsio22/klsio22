@@ -84,8 +84,6 @@
   
 ### Projects i worked in vtex cms:
 
-[Distrivisa](https://www.distrivisa.com.br/)
-
 [Florestoficial](https://www.florestoficial.com.br/)
 
 [Eletricabahiana](https://www.eletricabahiana.com.br/)
