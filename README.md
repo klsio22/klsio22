@@ -19,12 +19,6 @@ The purpose of my GitHub is to document my personal projects and learnings as I 
 - 💬 Feel free to ask me anything, I'm happy to help!
 - 📫 You can reach me at: <klesio.dev@gmail.com>
 
-<div>
-   <a href="https://github.com/klsio22">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klsio22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klsio22&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ### Languages:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
